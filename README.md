@@ -94,10 +94,10 @@ Current active mainnets and testnets:
   <h2>Contants:</h2>
   </div>
 </div>
-Twitter: https://twitter.com/Cagie33893719
-Discord: cagie#7144
-e-mail: info@cagie.tech
-website: https://cagie.tech
+Twitter: https://twitter.com/Cagie33893719 <br />
+Discord: cagie#7144 <br />
+e-mail: info@cagie.tech <br />
+website: https://cagie.tech <br />
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
