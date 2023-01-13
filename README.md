@@ -14,12 +14,12 @@ Current active mainnets and testnets:
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong></strong></span><br><br />
+            <span><strong></strong></span><br />
             <a href="https://explorer.nodestake.top/planq/staking/plqvaloper190r5g0cntxf3tys833juvtawctc739g2ugtlgp" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212309157-13df7cce-1354-4f0f-942b-04fc4c6ad391.png">
             </td>
             <td width="130px" align="center">
-            <span><strong></strong></span><br><br />
+            <span><strong></strong></span><br />
             <a href="https://quicksilver.explorers.guru/validator/quickvaloper14d92gdqcmg3kc4d4uwm2a9y6n9gzd8qkvgq2ec" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212309014-fd474d81-e254-4cee-a5b2-8cc0c5b8ff75.png">
             </td>
