@@ -16,12 +16,12 @@ Current active mainnets and testnets:
             <td width="130px" align="center">
             <span><strong>Planq</strong></span><br><br />
             <a href="https://explorer.indonode.dev/planq_7070-2/staking/plqvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzvqzm9w" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://user-images.githubusercontent.com/49861610/212308605-c4a39da2-8ba1-4c0d-8e58-94b7140b95a8.png">
+            <img height="40px" src="https://user-images.githubusercontent.com/49861610/212309157-13df7cce-1354-4f0f-942b-04fc4c6ad391.png">
             </td>
             <td width="130px" align="center">
             <span><strong>QuickSilver</strong></span><br><br />
             <a href="https://explorer.indonode.dev/lambda/staking/lambvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmz0ekr84" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/elangrr/explorer/blob/master/public/logos/lambda.png">
+            <img height="40px" src="https://user-images.githubusercontent.com/49861610/212309014-fd474d81-e254-4cee-a5b2-8cc0c5b8ff75.png">
             </td>
         </tr>
     </tbody>
