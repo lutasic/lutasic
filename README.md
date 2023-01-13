@@ -6,7 +6,7 @@ Current active mainnets and testnets:
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h2><i>Mainnets</i></h2>
+  <h2>Mainnets:</h2>
   </div>
 </div>
 
@@ -28,7 +28,7 @@ Current active mainnets and testnets:
 </table>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h2><i>Testnets</i></h2>
+  <h2>Testnets:</h2>
   </div>
 </div>
 
