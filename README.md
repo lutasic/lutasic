@@ -88,3 +88,29 @@ Current active mainnets and testnets:
         </tr>
     </tbody>
 </table>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2>Contants:</h2>
+  </div>
+</div>
+Twitter: https://twitter.com/Cagie33893719
+Discord: cagie#7144
+e-mail: info@cagie.tech
+website: https://cagie.tech
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2>My stats:</h2>
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=lutasic&show_icons=true&theme=nightowl"/>
+<br />
+<br />
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=lutasic&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+<br />
+  </div>
+</div>
