@@ -95,7 +95,7 @@ And many ended testnets: Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei 
   <h2>Contants:</h2>
   </div>
 </div>
-Twitter: https://twitter.com/Cagie33893719 <br />
+Twitter: https://twitter.com/thcagie <br />
 Discord: cagie#7144 <br />
 e-mail: bkscagie@gmail.com <br />
 website: https://cagie.tech <br />
