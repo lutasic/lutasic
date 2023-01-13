@@ -88,6 +88,7 @@ Current active mainnets and testnets:
         </tr>
     </tbody>
 </table>
+And many ended testnets: Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei and etc.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
