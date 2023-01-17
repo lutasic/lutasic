@@ -64,7 +64,9 @@ Current active mainnets and testnets:
             <span><strong>Andromaverse</strong></span><br><br />
             <a href="https://explorer.bccnodes.com/androma/staking/andrvaloper1jsnh3pqvtwyrdxqexeu4ntgepfsd4n35asm6tt" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212310725-ee976077-eb26-490e-bd32-0d6e20791292.png"> </a>
-            </td>   
+            </td>
+        </tr>  
+      <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Realio</strong></span><br><br />
             <a href="https://explorer.ppnv.space/realio/staking/realiovaloper1d2h6umsdlyn97hk0n9pq87lj98gty48xzqsz5k" target="_blank" rel="noopener noreferrer">
