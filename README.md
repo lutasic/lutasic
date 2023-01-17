@@ -23,6 +23,11 @@ Current active mainnets and testnets:
             <a href="https://quicksilver.explorers.guru/validator/quickvaloper14d92gdqcmg3kc4d4uwm2a9y6n9gzd8qkvgq2ec" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212309014-fd474d81-e254-4cee-a5b2-8cc0c5b8ff75.png">
             </td>
+            <td width="130px" align="center">
+            <span><strong>Lambda Network</strong></span><br><br />
+            <a href="https://explorer.nodestake.top/lambda/staking/lambvaloper1le32x6syw06m4utlzm2xzqdnegf8rc4lzk6xhp" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/212828408-15b49946-712f-4601-8be5-1ec5bec2105a.jpg">
+            </td>              
         </tr>
     </tbody>
 </table>
