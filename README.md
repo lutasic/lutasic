@@ -71,7 +71,7 @@ Current active mainnets and testnets:
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212311041-67091c84-b626-4670-896d-8d1b4b2e1e7d.jpg"> </a>
             </td>   
             <td width="130px" align="center">
-            <span><strong>Crowd Control</strong></span><br><br />
+            <span><strong>CrowdControl</strong></span><br><br />
             <a href="https://explorer.kjnodes.com/cardchain-test/staking/ccvaloper1cqd0ka6td2tr7ulfd3ynggk0njspcp58ygpndd" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212311207-9d060a5b-f2b7-4253-bfa3-ded8ecdb9b40.png"> </a>
             </td>   
