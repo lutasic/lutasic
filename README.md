@@ -70,6 +70,11 @@ Current active mainnets and testnets:
             <a href="https://testnet.manticore.team/quicksilver/staking/quickvaloper1vecdat96pnfxfet0whp5wc9kfurrfhr3ennxtm" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212309014-fd474d81-e254-4cee-a5b2-8cc0c5b8ff75.png">
             </td>
+            <td width="130px" align="center">
+            <span><strong>Mars</strong></span><br><br />
+            <a href="https://mars.explorers.guru/validator/marsvaloper19z9a53lecchndclg864a2yg4jdg6xwhhtegur3" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/213167845-3aac5bba-8e53-41da-b33f-68fcf0f52792.png">
+            </td>           
         </tr>  
       <tr valign="top">
             <td width="130px" align="center">
