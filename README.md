@@ -65,6 +65,11 @@ Current active mainnets and testnets:
             <a href="https://explorer.bccnodes.com/androma/staking/andrvaloper1jsnh3pqvtwyrdxqexeu4ntgepfsd4n35asm6tt" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212310725-ee976077-eb26-490e-bd32-0d6e20791292.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>Quicksilver</strong></span><br><br />
+            <a href="https://testnet.manticore.team/quicksilver/staking/quickvaloper1vecdat96pnfxfet0whp5wc9kfurrfhr3ennxtm" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/212309014-fd474d81-e254-4cee-a5b2-8cc0c5b8ff75.png">
+            </td>
         </tr>  
       <tr valign="top">
             <td width="130px" align="center">
