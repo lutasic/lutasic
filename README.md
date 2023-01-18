@@ -97,10 +97,14 @@ Current active mainnets and testnets:
             <a href="https://okp4.explorers.guru/validator/okp4valoper1d26y0n0y84yj2r9gzeyudzd6v5c8z6m7mund8z" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212312329-59af287a-0b13-4d09-9d8a-e0a2b1e62a0a.png"> </a>
            </td>   
+            <td width="130px" align="center">
+            <span><strong>Massa</strong></span><br><br />
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/213166850-14c47935-571d-4cfd-bde1-c24063775b40.png"> </a>
+           </td>          
         </tr>
     </tbody>
 </table>
-And many ended testnets: Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei and etc.
+And many ended testnets: Pontem, Zeitgeist, Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei, Aptos, Ares, SSV and etc.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
