@@ -105,7 +105,12 @@ Current active mainnets and testnets:
             <td width="130px" align="center">
             <span><strong>Massa</strong></span><br><br />
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/213166850-14c47935-571d-4cfd-bde1-c24063775b40.png"> </a>
-           </td>          
+           </td>      
+             </td>   
+            <td width="130px" align="center">
+            <span><strong>Masa</strong></span><br><br />
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/213168170-21c35ade-0ad3-4bc5-81a3-e5aaa6162ff9.jpg"> </a>
+           </td>            
         </tr>
     </tbody>
 </table>
