@@ -118,12 +118,16 @@ Current active mainnets and testnets:
             <a href="https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper1ljgr04m9cy72wruvlq0jzpjpjkut2xcgn7uz85" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394045-f6811cd5-4ca8-4e32-8f5b-c72d506ed1ee.png"> </a>
            </td>   
-               </td>   
-            <td width="130px" align="center">
-            <span><strong>IronFish</strong></span><br><br />
-             <a href="https://testnet.ironfish.network/users/269385" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://user-images.githubusercontent.com/49861610/213442342-62ad0df1-be0a-4957-9d95-46b0a943f5bc.png"> </a>
+             <td width="130px" align="center">
+            <span><strong>Andromeda</strong></span><br><br />
+            <a href="https://testnet-ping.wildsage.io/andromeda/staking/andrvaloper1vc6d3t5hvvskml7mf0w3qdn7e259c8dfwzxaeg" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394588-8a9f1e83-7c9d-4a72-b93a-f0eea270c2de.png"> </a>
            </td>     
+             <td width="130px" align="center">
+            <span><strong>Coreum</strong></span><br><br />
+            <a href="https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1q9hsw0khm2ap0c8m08xf8qhkx6p3gx8w35g7ng" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394736-2483153f-e4d3-461c-a2cc-49a91454c0c8.png"> </a>
+           </td>  
       </tr>        
     </tbody>
 </table>
