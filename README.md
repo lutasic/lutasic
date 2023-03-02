@@ -128,11 +128,16 @@ Current active mainnets and testnets:
             <a href="https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1q9hsw0khm2ap0c8m08xf8qhkx6p3gx8w35g7ng" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394736-2483153f-e4d3-461c-a2cc-49a91454c0c8.png"> </a>
            </td>  
+               <td width="130px" align="center">
+            <span><strong>KYVE</strong></span><br><br />
+            <a href="https://kyve.explorers.guru/validator/kyvevaloper160rp4z97ng990qf7mt4kgw6h924lf6ztwssw6t" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/222395011-79ccfff6-ac8d-47e0-93f8-a27a601bbfc4.png"> </a>
+           </td>  
       </tr>        
     </tbody>
 </table>
 
-And many ended testnets: Pontem, Zeitgeist, Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei, Aptos, Ares, SSV and etc.
+And many ended testnets: Iron Fish, Pontem, Zeitgeist, Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei, Aptos, Ares, SSV and etc.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
