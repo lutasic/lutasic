@@ -113,6 +113,11 @@ Current active mainnets and testnets:
            </td>            
         </tr>
       <tr valign="top">
+             <td width="130px" align="center">
+            <span><strong>Nolus</strong></span><br><br />
+            <a href="https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper1ljgr04m9cy72wruvlq0jzpjpjkut2xcgn7uz85" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394045-f6811cd5-4ca8-4e32-8f5b-c72d506ed1ee.png"> </a>
+           </td>   
                </td>   
             <td width="130px" align="center">
             <span><strong>IronFish</strong></span><br><br />
