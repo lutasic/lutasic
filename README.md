@@ -75,19 +75,14 @@ Current active mainnets and testnets:
             <a href="https://testnet.manticore.team/quicksilver/staking/quickvaloper1vecdat96pnfxfet0whp5wc9kfurrfhr3ennxtm" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212309014-fd474d81-e254-4cee-a5b2-8cc0c5b8ff75.png">
             </td>
-            <td width="130px" align="center">
-            <span><strong>Mars</strong></span><br><br />
-            <a href="https://mars.explorers.guru/validator/marsvaloper19z9a53lecchndclg864a2yg4jdg6xwhhtegur3" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://user-images.githubusercontent.com/49861610/213167845-3aac5bba-8e53-41da-b33f-68fcf0f52792.png">
-            </td>           
-        </tr>  
-      <tr valign="top">
-            <td width="130px" align="center">
+               <td width="130px" align="center">
             <span><strong>Realio</strong></span><br><br />
             <a href="https://explorer.ppnv.space/realio/staking/realiovaloper1d2h6umsdlyn97hk0n9pq87lj98gty48xzqsz5k" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212311041-67091c84-b626-4670-896d-8d1b4b2e1e7d.jpg"> </a>
-            </td>   
-            <td width="130px" align="center">
+            </td>        
+        </tr>  
+      <tr valign="top">
+             <td width="130px" align="center">
             <span><strong>CardChain</strong></span><br><br />
             <a href="https://explorer.kjnodes.com/cardchain-test/staking/ccvaloper1cqd0ka6td2tr7ulfd3ynggk0njspcp58ygpndd" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212311207-9d060a5b-f2b7-4253-bfa3-ded8ecdb9b40.png"> </a>
@@ -115,15 +110,15 @@ Current active mainnets and testnets:
             <span><strong>Nolus</strong></span><br><br />
             <a href="https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper1ljgr04m9cy72wruvlq0jzpjpjkut2xcgn7uz85" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394045-f6811cd5-4ca8-4e32-8f5b-c72d506ed1ee.png"> </a>
-           </td>             
-        </tr>
-      <tr valign="top">
-              <td width="130px" align="center">
+           </td>   
+                         <td width="130px" align="center">
             <span><strong>Andromeda</strong></span><br><br />
             <a href="https://testnet-ping.wildsage.io/andromeda/staking/andrvaloper1vc6d3t5hvvskml7mf0w3qdn7e259c8dfwzxaeg" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394588-8a9f1e83-7c9d-4a72-b93a-f0eea270c2de.png"> </a>
-           </td>     
-             <td width="130px" align="center">
+           </td>   
+        </tr>
+      <tr valign="top">
+               <td width="130px" align="center">
             <span><strong>Coreum</strong></span><br><br />
             <a href="https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1q9hsw0khm2ap0c8m08xf8qhkx6p3gx8w35g7ng" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394736-2483153f-e4d3-461c-a2cc-49a91454c0c8.png"> </a>
@@ -148,7 +143,7 @@ Current active mainnets and testnets:
     </tbody>
 </table>
 
-And many ended testnets: Humans, Iron Fish, Pontem, Zeitgeist, Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei, Aptos, Ares, SSV and etc.
+And many ended testnets: Mars, Humans, Iron Fish, Pontem, Zeitgeist, Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei, Aptos, Ares, SSV and etc.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
