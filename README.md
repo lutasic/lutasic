@@ -27,7 +27,12 @@ Current active mainnets and testnets:
             <span><strong>Lambda</strong></span><br><br />
             <a href="https://explorer.nodestake.top/lambda/staking/lambvaloper1le32x6syw06m4utlzm2xzqdnegf8rc4lzk6xhp" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212828408-15b49946-712f-4601-8be5-1ec5bec2105a.jpg">
-            </td>              
+            </td>    
+            <td width="130px" align="center">
+            <span><strong>Arkhadian</strong></span><br><br />
+            <a href="https://explorer.sxlzptprjkt.xyz/arkhadian/staking/arkhvaloper1j5e7cune8gywf8en77gf06gn9u6rnvdz84gnpk" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/223363745-df95d2b6-7258-4b68-ad93-87adeb7df706.png">
+            </td>                  
         </tr>
     </tbody>
 </table>
@@ -133,6 +138,17 @@ Current active mainnets and testnets:
             <a href="https://kyve.explorers.guru/validator/kyvevaloper160rp4z97ng990qf7mt4kgw6h924lf6ztwssw6t" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/222395011-79ccfff6-ac8d-47e0-93f8-a27a601bbfc4.png"> </a>
            </td>  
+               <td width="130px" align="center">
+            <span><strong>Mande</strong></span><br><br />
+            <a href="https://explorer.stavr.tech/mande-chain/staking/mandevaloper1ddn3xt5ut4agrrarvmr2vg3pluhh5tykf5xhlx" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/223363905-d3079332-8643-4e6b-bc70-385ffa597b3a.png"> </a>
+           </td> 
+           </td>  
+               <td width="130px" align="center">
+            <span><strong>Ojo</strong></span><br><br />
+            <a href="https://sauron.ojo.network/ojo-devnet-1/staking/ojovaloper17lqxqxl9htu7sxmnmlze5adwgfdsyh6qexe3mz" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/223364158-34997437-33b6-4c05-b73d-33356063e957.png"> </a>
+           </td>     
       </tr>        
     </tbody>
 </table>
