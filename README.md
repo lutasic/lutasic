@@ -138,7 +138,13 @@ Current active mainnets and testnets:
             <span><strong>Ojo</strong></span><br><br />
             <a href="https://sauron.ojo.network/ojo-devnet-1/staking/ojovaloper17lqxqxl9htu7sxmnmlze5adwgfdsyh6qexe3mz" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/223364158-34997437-33b6-4c05-b73d-33356063e957.png"> </a>
-           </td>     
+           </td>    
+           </td>  
+               <td width="130px" align="center">
+            <span><strong>SAO</strong></span><br><br />
+            <a href="https://explorer.stavr.tech/sao-testnet/staking/saovaloper1v36fugue7ggkzxx4udkcyr04ljagqnfy44p6a6" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/223368998-f2d758c0-9c67-4187-b982-0df1bf95cfda.png"> </a>
+           </td>                
       </tr>        
     </tbody>
 </table>
