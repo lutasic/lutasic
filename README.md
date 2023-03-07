@@ -91,12 +91,7 @@ Current active mainnets and testnets:
             <span><strong>CardChain</strong></span><br><br />
             <a href="https://explorer.kjnodes.com/cardchain-test/staking/ccvaloper1cqd0ka6td2tr7ulfd3ynggk0njspcp58ygpndd" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/212311207-9d060a5b-f2b7-4253-bfa3-ded8ecdb9b40.png"> </a>
-            </td>   
-            <td width="130px" align="center">
-            <span><strong>Humans</strong></span><br><br />
-            <a href="https://explorer.humans.zone/humans-testnet/staking/humanvaloper1pmffd58pq9mg6qw0rudhvd9mfm84lkw8mael58" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://user-images.githubusercontent.com/49861610/212311850-cc5990a3-1649-4941-a422-f58700ed84f3.png"> </a>
-            </td>   
+            </td>     
             <td width="130px" align="center">
             <span><strong>HAQQ</strong></span><br><br />
             <a href="https://haqq.explorers.guru/validator/haqqvaloper1576jsw9nsvv93lezf8rapkzwk7ajsf7gphyfex" target="_blank" rel="noopener noreferrer">
@@ -115,15 +110,15 @@ Current active mainnets and testnets:
             <td width="130px" align="center">
             <span><strong>Masa</strong></span><br><br />
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/213168170-21c35ade-0ad3-4bc5-81a3-e5aaa6162ff9.jpg"> </a>
-           </td>            
-        </tr>
-      <tr valign="top">
+           </td> 
              <td width="130px" align="center">
             <span><strong>Nolus</strong></span><br><br />
             <a href="https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper1ljgr04m9cy72wruvlq0jzpjpjkut2xcgn7uz85" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394045-f6811cd5-4ca8-4e32-8f5b-c72d506ed1ee.png"> </a>
-           </td>   
-             <td width="130px" align="center">
+           </td>             
+        </tr>
+      <tr valign="top">
+              <td width="130px" align="center">
             <span><strong>Andromeda</strong></span><br><br />
             <a href="https://testnet-ping.wildsage.io/andromeda/staking/andrvaloper1vc6d3t5hvvskml7mf0w3qdn7e259c8dfwzxaeg" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/222394588-8a9f1e83-7c9d-4a72-b93a-f0eea270c2de.png"> </a>
@@ -153,7 +148,7 @@ Current active mainnets and testnets:
     </tbody>
 </table>
 
-And many ended testnets: Iron Fish, Pontem, Zeitgeist, Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei, Aptos, Ares, SSV and etc.
+And many ended testnets: Humans, Iron Fish, Pontem, Zeitgeist, Kyve, DWS, Ollo, Neutron, Rebus, Stride, Teritori, Sei, Aptos, Ares, SSV and etc.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
