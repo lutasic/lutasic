@@ -32,7 +32,12 @@ Current active mainnets and testnets:
             <span><strong>Arkhadian</strong></span><br><br />
             <a href="https://explorer.sxlzptprjkt.xyz/arkhadian/staking/arkhvaloper1j5e7cune8gywf8en77gf06gn9u6rnvdz84gnpk" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://user-images.githubusercontent.com/49861610/223363745-df95d2b6-7258-4b68-ad93-87adeb7df706.png">
-            </td>                  
+            </td>  
+                             <td width="130px" align="center">
+            <span><strong>KYVE</strong></span><br><br />
+            <a href="https://explorer.kyve.network/kyve/staking/kyvevaloper160rp4z97ng990qf7mt4kgw6h924lf6ztwssw6t" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://user-images.githubusercontent.com/49861610/222395011-79ccfff6-ac8d-47e0-93f8-a27a601bbfc4.png"> </a>
+           </td>  
         </tr>
     </tbody>
 </table>
